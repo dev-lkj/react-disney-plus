@@ -14,7 +14,9 @@ const MovieModal = ({
 }) => {
 
     const ref = useRef();
-    useOnClickOutside(ref, () => {});
+    useOnClickOutside(ref, () => {
+        setModalOpen(false);
+    });
   return (
     <div className='presentation' role="presentation">
         <div className='wrapper-modal'>
