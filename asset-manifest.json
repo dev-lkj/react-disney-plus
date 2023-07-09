@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-disney-plus/static/css/main.26fee10c.css",
+    "main.js": "/react-disney-plus/static/js/main.e78f8261.js",
+    "static/js/787.7c7868fd.chunk.js": "/react-disney-plus/static/js/787.7c7868fd.chunk.js",
+    "index.html": "/react-disney-plus/index.html",
+    "main.26fee10c.css.map": "/react-disney-plus/static/css/main.26fee10c.css.map",
+    "main.e78f8261.js.map": "/react-disney-plus/static/js/main.e78f8261.js.map",
+    "787.7c7868fd.chunk.js.map": "/react-disney-plus/static/js/787.7c7868fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26fee10c.css",
+    "static/js/main.e78f8261.js"
+  ]
+}
