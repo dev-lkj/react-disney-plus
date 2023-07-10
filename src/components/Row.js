@@ -4,7 +4,7 @@ import "./Row.css";
 import MovieModal from './MovieModal';
 
 
-import { Navigation, Pagination, Scrollbar, A11y } from 'swiper/modules';
+import { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // import swiper style

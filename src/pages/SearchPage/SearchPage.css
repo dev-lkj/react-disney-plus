@@ -1,20 +1,20 @@
 .searchContent {
-    height:100vh;
+    height: 100vh;
     background-color: black;
 }
 
 .search-container {
     background-color: black;
-    width:100%;
+    width: 100%;
     text-align: center;
     padding: 5rem 0;
 }
 
 .no-results {
-    display:flex;
+    display: flex;
     justify-content: center;
-    align-items: center;
-    color:#c5c5c5;
+    align-content: center;
+    color: #c5c5c5;
     height: 100%;
     padding: 8rem;
 }
@@ -32,11 +32,11 @@
     -webkit-transition: transform 0.3s;
 }
 
-.movie__column-poster:hover{
+.movie__column-poster:hover {
     transform: scale(1.25);
 }
 
 .movie__poster {
-    width:90%;
+    width: 90%;
     border-radius: 5px;
 }

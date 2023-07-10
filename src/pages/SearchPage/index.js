@@ -33,7 +33,7 @@ const SearchPage = () => {
   if(searchResults.length > 0) {
     return (
       <section className='search-container'>
-          {searchResults.map( (movie) => {
+          {searchResults.map((movie) => {
             if(movie.backdrop_path !== null && movie.media_type !== "person") {
               const movieImageUrl = "https://image.tmdb.org/t/p/w500" + movie.backdrop_path;
               return (
@@ -46,7 +46,7 @@ const SearchPage = () => {
             } 
           })}
       </section>
-    );
+    )
   } else {
     return (
         <section className='no-results'>
